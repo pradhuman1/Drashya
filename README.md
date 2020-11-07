@@ -1,4 +1,4 @@
-# Drashya: A site to guide farmers
+# Drashya: An idea to guide farmers
 In today's world information is everything. Right information at right time can change lives. However such information is hard to access specially for our farmers. Understanding this situation Team cuninFox has decided to build Drashya. Literaly meaning something mesmerising to look at Drashya can play a vital role in helping the farmers of India by providing information they need.
 
 
