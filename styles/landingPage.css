@@ -24,19 +24,20 @@ html{
 
 }
 .service{
-    font-size: 15px;
+    font-size: 20px;
     margin-top: 5%;
     font-family: 'Jost', sans-serif;
 
 }
 .book{
     background-color: transparent;
+    margin: 7.5px;
     border-color: #504a4a;
-    padding: 10px;
+    padding: 25px;
     border-width: 3px;
     color: #504a4a;
     font-family: 'Balsamiq Sans', cursive;
-    font-size: 15px;
+    font-size: 23.5px;
     border-radius: 10px;
 
 }

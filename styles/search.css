@@ -35,7 +35,7 @@ html{
     height: 250px;
     margin-left: 15%;
     margin-bottom: 2%;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 .cards{
     height: 65vh;
@@ -58,7 +58,7 @@ html{
 .info{
     display: flex;
     margin-bottom: 1%;
-    
+
 }
 .storeName{
     font-family: 'Oswald', sans-serif;
@@ -131,7 +131,7 @@ html{
     font-family: 'Oswald', sans-serif;
 }
 .infoCrop{
-  margin: 7.5px;
+margin: 7.5px;
 padding: 7.5px 0;
 background-color: #98f0f5;
 height: 310px;
