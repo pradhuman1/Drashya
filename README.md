@@ -22,3 +22,8 @@ Drashya aims at rectifing cropping methods and crop rotation. If these are acted
 We aim to achieve this by providing right information at right time. This would be done by providing right information. This information will be provided by local/verified data saved. As internet can be very misleading thus decision was made to collect information and provide that. In order to keep the data accurate it will be collected from verified sites, institutions. 
 
 Apart from that the site's primary language will be **Hindi and Bundelkhandi** for better understanding. 
+
+# Future Plans:
+To enhance the structure and make app availabilty. Primary focus will be on valid information, language ease (statewise language like **Telugu for Andra Pradesh, Tamil for Tamil Nadu** etc ) Also easy acciessbility. 
+
+This is a prototype Drashya is growing :ear_of_rice:
