@@ -21,7 +21,7 @@ Drashya aims at rectifing cropping methods and crop rotation. If these are acted
 ![Current Data](https://github.com/pradhuman1/Drashya/blob/main/Image/FarmerS2.png)
 
 # How to solve this?
-We aim to achieve this by providing right information at right time. This would be done by providing right information. This information will be provided by local/verified data saved. As internet can be very misleading thus decision was made to collect information and provide that. In order to keep the data accurate it will be collected from verified sites, institutions. 
+We aim to achieve this by providing right information at right time. This information will be provided by local/verified data saved. As internet can be very misleading thus decision was made to collect information and provide that. In order to keep the data accurate it will be collected from verified sites, institutions. 
 
 Apart from that the site's primary language will be **Hindi and Bundelkhandi** for better understanding. 
 
