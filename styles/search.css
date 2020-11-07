@@ -1,7 +1,7 @@
 html{
     height: 100%;
     width: 100%;
-    background-color: rgb(210, 225, 231);
+    background-color: #f5bb00;
     text-align: center;
 }
 .city{
@@ -17,7 +17,7 @@ html{
     outline:none;
 }
 .z{
-    font-size: 30px;
+    font-size: 65px;
     font-family: 'Oswald', sans-serif;
     margin-bottom: 20px;
 }
