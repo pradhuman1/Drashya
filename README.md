@@ -4,4 +4,4 @@ In today's world information is everything. Right information at right time can 
 
 Drashya is currently made specifically for farmers of Madhya Pradesh. Due to the exsistance of geographic and topographic diversity in India it was concluded that it would be best made for a specific state so that accurate information can be provided.
 
-
+[Niti Ayog Report]!(https://github.com/pradhuman1/Drashya/blob/main/Image/FarmerS1.png)
