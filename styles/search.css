@@ -1,0 +1,120 @@
+html{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(210, 225, 231);
+    text-align: center;
+}
+.city{
+    width: 650px;
+    height: 40px;
+    border-radius: 30px;
+    padding: 0px 0px 0 40px;
+    font-size: 22px;
+    margin-top: 40px;
+    margin-bottom: 6%;
+}
+.city:focus{
+    outline:none;
+}
+.z{
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+    margin-bottom: 20px;
+}
+.x{
+    font-size: 15px;
+    font-family: 'Jost', sans-serif;
+}
+.fa{
+    position: relative;
+    left: 35px;
+}
+.card{
+    background-color: rgb(210, 225, 231);
+    width: 1000px;
+    height: 250px;
+    margin-left: 15%;
+    margin-bottom: 2%;
+    border-radius: 10px;
+}
+.cards{
+    height: 65vh;
+    overflow: scroll;   
+    background-color: white; 
+    padding-top: 10px;
+    
+}
+.dummy{
+    height: 250px;
+    width: 250px;
+    float: left;
+}
+.storeName{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;    
+}
+.address{
+    font-family: 'Lato', sans-serif;
+    font-size: 15px;
+    margin-bottom: 2%;
+}
+.timeSlot{
+    /* padding: 10px 15px 10px 15px; */
+    width: 8%;
+    height: 15%;
+    background-color: transparent;
+    border-color: blue;
+    color: blue;
+    margin-right: 4%;
+    margin-left: 4%;
+    border-radius: 15%;
+    margin-bottom: 1%;
+
+}
+.timeSlot:focus{
+    outline: none;
+    background-color: blue;
+    color: white;
+}
+.timeSlot:hover{
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+}
+.booked{
+    width: 12%;
+    height: 15%;
+    background-color: green;
+    border-color: green;
+    color: white;
+    margin-top: 1%;
+    cursor: pointer;
+}
+.booked:focus{  
+    outline: none;
+}
+.notAvailable{
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    color: red;    
+    margin-bottom: 5%;
+}
+.confirmed{
+    font-size: 40px;
+    font-family: 'Oswald', sans-serif;
+    color: green;   
+}
+.time{
+    position: absolute;
+    left: 10px;
+    margin-top: 5%;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+}
+.customerID{
+    position: absolute;
+    left: 10px;
+    margin-top: 10%;
+    font-size: 30px;
+    font-family: 'Oswald', sans-serif;
+}
