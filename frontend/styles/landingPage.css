@@ -29,6 +29,10 @@ html{
     font-family: 'Jost', sans-serif;
 
 }
+.choose-lang{
+    display: flex;
+    justify-content: flex-end;
+}
 .book{
     background-color: transparent;
     margin: 7.5px;

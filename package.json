@@ -1,0 +1,25 @@
+{
+  "name": "Drashya",
+  "version": "1.0.0",
+  "description": "In today's world information is everything. Right information at right time can change lives. However such information is hard to access specially for our farmers. Understanding this situation Team cuninFox has decided to build Drashya. Literaly meaning something mesmerising to look at Drashya can play a vital role in helping the farmers of India by providing information they need.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradhuman1/Drashya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradhuman1/Drashya/issues"
+  },
+  "homepage": "https://github.com/pradhuman1/Drashya#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "path": "^0.12.7",
+    "unirest": "^0.6.0"
+  }
+}

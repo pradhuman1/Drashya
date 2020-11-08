@@ -29,3 +29,13 @@ Apart from that the site's primary language will be **Hindi and Bundelkhandi** (
 To enhance the structure and make app availabilty. Primary focus will be on valid information, language ease (statewise language like **Telugu for Andra Pradesh, Tamil for Tamil Nadu** etc ) Also easy acciessbility. 
 
 This is a prototype Drashya is growing :ear_of_rice:
+
+# Setup and Run
+Type the following commands in terminal </br>
+`git clone https://github.com/pradhuman1/Drashya`
+</br>
+`cd Drashya`</br>
+`npm init -y`</br>
+`nodemon index.js`</br>
+</br>
+Go to `http://localhost:1100/` 
