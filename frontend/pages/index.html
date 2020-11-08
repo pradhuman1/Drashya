@@ -11,32 +11,40 @@
 </head>
 
 <body>
-    <div class="z">
+    <div class="choose-lang">
+        <label for="lang text">Choose Language :</label>
+        <select name="Lang" id="lang">
+            <option value="en">English</option>
+            <option value="hi">Hindi</option>
+
+        </select>
+    </div>
+    <div class="z text">
         Drashya: Here to guide you
     </div>
 
     <div class="Input">
         <i class="fa fa-search"></i>
-        <input type="text" class="city" placeholder="Enter Crop">
+        <input type="text" class="city text" placeholder="Enter City">
     </div>
     <div class="cards">
-        <div class="card">
+        <!-- <div class="card">
             <img src="./Image/Crop_Pic.jpg" class="dummy">
-            <div class="storeName">CROP 1</div>
+            <div class="storeName text">CROP 1</div>
             <div class="address"></div>
             <div class="general-info">
                 <table>
-                    <tr class="info">
+                    <tr class="info text">
                         <td>
                             Soil
                         </td>
                     </tr>
-                    <tr class="info">
+                    <tr class="info text">
                         <td>
                             Rain
                         </td>
                     </tr>
-                    <tr class="info">
+                    <tr class="info text">
                         <td>
                             Season
                         </td>
@@ -67,13 +75,15 @@
                     </tr>
                 </table>
             </div>
-        </div>
+        </div> -->
     </div>
 
-    <div class="x">
+    <div class="x text">
         *currently providing data for Madhya Pradesh Only
     </div>
 </body>
+<script src="../src/script.js"></script>
+<script src="../src/cards.js"></script>
 
 
 </html>

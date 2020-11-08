@@ -31,6 +31,7 @@ exports.getLangCode = async function (sample) {
     })
 
     await id.then((data) => {
+        console.log(data);
     }).catch();
     return lang_id;
 }
