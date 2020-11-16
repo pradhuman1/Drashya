@@ -39,3 +39,7 @@ Type the following commands in terminal </br>
 `nodemon index.js`</br>
 </br>
 Go to `http://localhost:1100/` 
+
+
+https://pradhuman1.github.io/Drashya/frontend/pages/landingPage.html
+https://github.com/pradhuman1/Drashya
